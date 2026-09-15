@@ -1,8 +1,7 @@
 <img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif" width="600">
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 60%;">
-    ### текст
+    ## текст
   </div>
   
   <div style="width: 35%;">
