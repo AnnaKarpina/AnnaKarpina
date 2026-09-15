@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif", wigth="400">
+<img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif" width="600">
 ![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
 # Привет!
 ###  Меня зовут Анна, я люблю рисовать, лис и программировать
