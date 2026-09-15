@@ -3,9 +3,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/e2/93/19/e293196d346c7bb851959825056f42b2.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/e2/93/19/e293196d346c7bb851959825056f42b2.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/736x/e2/93/19/e293196d346c7bb851959825056f42b2.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
 </picture>
 
 <!--
