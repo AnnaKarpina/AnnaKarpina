@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=1000&color=200778&center=true&vCenter=true&width=600&lines=Good+morning!)
+![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
 # Привет!
 ##  я хочу стать веб дизайнером
 
