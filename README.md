@@ -1,7 +1,10 @@
 ## Hello there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+am+Web+Developer)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://i.pinimg.com/1200x/1b/e3/24/1be324594e885b2d559b51e3efbbed8f.jpg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/1200x/1b/e3/24/1be324594e885b2d559b51e3efbbed8f.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/1200x/1b/e3/24/1be324594e885b2d559b51e3efbbed8f.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/1200x/1b/e3/24/1be324594e885b2d559b51e3efbbed8f.jpg">
 </picture>
 <!--
 **AnnaKarpina/AnnaKarpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
