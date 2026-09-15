@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=1000&color=200778&center=true&vCenter=true&width=600&lines=Хай!)
-# Я студент айти разработак
-
+## Я студент айти разработак
+#  я хочу стать веб дизайнером
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
