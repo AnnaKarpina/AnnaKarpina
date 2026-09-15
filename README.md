@@ -3,11 +3,11 @@
 # Привет!
 ### Меня зовут Анна, я люблю рисовать, лис и программировать
 <p align="right">
-  <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="500">
+  <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="450">
 </p>
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/ee/2d/94/ee2d94d00c1afa66c5326ce0aa3c5782.jpg" alt="Альтернативный текст" width="500">
+  <img src="https://i.pinimg.com/736x/ee/2d/94/ee2d94d00c1afa66c5326ce0aa3c5782.jpg" alt="Альтернативный текст" width="450">
 </p>
 
 <!--
