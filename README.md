@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=200778&center=true&vCenter=true&width=600&lines=Хай!+Я+студент+айти+разработак)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=200778&center=true&vCenter=true&width=600&lines=Хай!)
+##Я+ студент айти разработак
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/e2/93/19/e293196d346c7bb851959825056f42b2.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/e2/93/19/e293196d346c7bb851959825056f42b2.jpg">
