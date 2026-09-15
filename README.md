@@ -6,7 +6,9 @@
   </div>
   
   <div style="width: 35%;">
-    <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" width="100%">
+    <p align="right">
+      <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="500">
+    </p>
   </div>
 </div>
 
