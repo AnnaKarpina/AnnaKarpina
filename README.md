@@ -1,5 +1,4 @@
 <img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif" width="600">
-![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
 # Привет!
 ###  Меня зовут Анна, я люблю рисовать, лис и программировать
 <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="600">
@@ -10,7 +9,8 @@ https://i.pinimg.com/736x/3f/fc/71/3ffc7178fd6bece0050bdcb7bd675e0a.jpg
 
 https://i.pinimg.com/1200x/e8/b1/9a/e8b19aebb024fbeb35a552b889c979ab.jpg
 
-
+(старое)
+![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
