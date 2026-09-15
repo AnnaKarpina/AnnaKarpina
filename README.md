@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=1000&color=200778&center=true&vCenter=true&width=500&lines=Хай!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=1000&color=200778&center=true&vCenter=true&width=300&lines=Хай!)
 # Я студент айти разработак
 
 
