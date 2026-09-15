@@ -6,20 +6,24 @@
   <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="500">
 </p>
 
+<div style="display: flex; align-items: center;">
+  <div style="width: 50%;">
+    # Привет!
+    ### Меня зовут Анна, я люблю рисовать, лис и программировать
+  </div>
+  <div style="width: 50%;">
+    <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" width="100%">
+  </div>
+</div>
+
 <!--
-**AnnaKarpina/AnnaKarpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://i.pinimg.com/736x/3f/fc/71/3ffc7178fd6bece0050bdcb7bd675e0a.jpg 
+<img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif" width="600">
 
-https://i.pinimg.com/1200x/e8/b1/9a/e8b19aebb024fbeb35a552b889c979ab.jpg
-
-(старое)
-![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
-</picture>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=54&pause=1000&color=200778&center=true&vCenter=true&width=600&lines=Good+morning!)
+# Привет!
+### Меня зовут Анна, я люблю рисовать, лис и программировать
+<p align="right">
+  <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="500">
+</p>
 
 Here are some ideas to get you started:
 
