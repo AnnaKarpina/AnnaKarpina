@@ -1,11 +1,12 @@
 ![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
-<gif src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif", wigth="400">
 # Привет!
 ###  Меня зовут Анна, я люблю рисовать, лис и программировать
 <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" alt="Альтернативный текст" width="600">
 
 <!--
 **AnnaKarpina/AnnaKarpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<gif src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif", wigth="400">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
   <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
