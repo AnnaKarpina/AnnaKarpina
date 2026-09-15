@@ -1,6 +1,6 @@
 ![Альтернативный текст](https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif)
 # Привет!
-##  я хочу стать веб дизайнером
+##  Меня зовут Аня и я хочу стать веб дизайнером
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg">
