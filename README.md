@@ -1,5 +1,5 @@
 ## Hello there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+am+Web+Developer;Frontend+%2F+Backend)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=I+am+Web+Developer)
 <!--
 **AnnaKarpina/AnnaKarpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
