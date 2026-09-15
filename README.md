@@ -12,7 +12,7 @@
     ### Меня зовут Анна, я люблю рисовать, лис и программировать
   </div>
   <div style="width: 50%;">
-    <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" width="100%">
+    <img src="https://i.pinimg.com/736x/0b/be/c1/0bbec191bc2fae0410c9439911d006ee.jpg" width="50%">
   </div>
 </div>
 
