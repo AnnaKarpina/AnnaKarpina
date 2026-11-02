@@ -1,9 +1,8 @@
 <img src="https://i.pinimg.com/originals/ea/86/15/ea8615319f7c28979ae1dc379a3d3b5a.gif" width="600">
 
 # Привет!
-### Меня зовут Анна, я люблю рисовать, лис и программировать
+### Меня зовут Анна
 
-<img src="https://i.pinimg.com/736x/ee/2d/94/ee2d94d00c1afa66c5326ce0aa3c5782.jpg" alt="Альтернативный текст" width="600">
 
 <!--
 начало
