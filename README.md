@@ -3,8 +3,10 @@
 # Привет!
 ### Меня зовут Анна
 ### Контакты: 
-## +79169179905
-## annakar2008@gmail.com
+### +7(916) 917-99-05
+### annakar2008@gmail.com
+
+<img src="https://i.pinimg.com/736x/ee/2d/94/ee2d94d00c1afa66c5326ce0aa3c5782.jpg" alt="Альтернативный текст" width="600">
 
 
 <!--
